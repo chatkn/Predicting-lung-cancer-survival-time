@@ -17,3 +17,6 @@ I choose the *Cox’s proportional hazard model* model because it
 
 **Api**  
 *Lifelines* which is an implementation of survival analysis in Python
+
+To know more about the FoodDatabase project, [Here](Predicting-lung-cancer-survival-time.ipynb)!  
+See you there!
